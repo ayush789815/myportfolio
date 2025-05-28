@@ -117,7 +117,7 @@ const Contact = () => {
                 Get a detailed overview of my skills, experience, and projects.
               </p>
               <a
-                href="/src/assets/RenderCV_EngineeringResumes_Theme.pdf"
+                href="/RenderCV_EngineeringResumes_Theme.pdf"
                 download="Ayush_Vishwakarma_Resume.pdf"
                 className="inline-flex items-center gap-2 px-6 py-3 rounded-lg font-semibold bg-white text-blue-600 shadow hover:bg-blue-50 hover:text-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 transition-all duration-200 group"
               >
