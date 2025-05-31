@@ -39,6 +39,15 @@ const Projects = () => {
       image: 'https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=500&h=300&fit=crop',
       liveLink: '#',
       githubLink: 'https://github.com/ayush789815/uberFrontend'
+    },
+     {
+      title: 'Asernity UI Animation Website',
+      description: 'A modern animation website built with Next.js and Asernity UI, featuring smooth transitions and interactive UI components.',
+      tech: ['Next.js', 'Asernity UI'],
+      category: 'Frontend',
+      image: 'https://images.unsplash.com/photo-1707524464813-78014aa12861?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZGFyayUyMGFuaW1hdGlvbnxlbnwwfHwwfHx8MA%3D%3D',
+      liveLink: '#',
+      githubLink: 'https://github.com/ayush789815/firstnext.jsproject'
     }
   ];
 
