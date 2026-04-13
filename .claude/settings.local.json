@@ -3,7 +3,8 @@
     "allow": [
       "Bash(npm install:*)",
       "Bash(npm run:*)",
-      "WebFetch(domain:69c79463ad4a3039e6f5efa2--yk-studio.netlify.app)"
+      "WebFetch(domain:69c79463ad4a3039e6f5efa2--yk-studio.netlify.app)",
+      "Bash(npm uninstall:*)"
     ]
   }
 }
